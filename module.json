@@ -10,7 +10,7 @@
     "packs": [],
     "languages": [{
         "lang": "ru",
-        "name": "Russian",
+        "name": "Russian Fan",
         "path": "dist/combined.json"
     }],
     "url": "https://github.com/ChepinRepin/foundry-vtt-ru",
