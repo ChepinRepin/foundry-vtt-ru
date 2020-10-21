@@ -4,16 +4,16 @@
     "TIDY5E.Exhaustion0": "Нет негативных эффектов",
     "TIDY5E.Exhaustion1": "Помеха при проверке характеристик",
     "TIDY5E.Exhaustion2": "Скорость снижена вдвое",
-    "TIDY5E.Exhaustion3": "Помеха при бросках атаки и испытаниях",
-    "TIDY5E.Exhaustion4": "Максимум пунктов здоровья снижен вдвое",
+    "TIDY5E.Exhaustion3": "Помеха при бросках атаки и спасбросках",
+    "TIDY5E.Exhaustion4": "Максимум хитов снижен вдвое",
     "TIDY5E.Exhaustion5": "Скорость снижена до 0",
     "TIDY5E.Exhaustion6": "Смерть",
 
     "TIDY5E.RestHint": "Отдохнуть",
     "TIDY5E.RestS": "Короткий отдых",
-    "TIDY5E.RestL": "Долгий отдых",
+    "TIDY5E.RestL": "Длительный отдых",
 
-    "TIDY5E.AttrHitPoints": "Пункты Здоровья",
+    "TIDY5E.AttrHitPoints": "Хиты",
 
     "TIDY5E.HitDiceHint": "Используются во время отдыха",
 
@@ -65,7 +65,7 @@
 
     "TIDY5E.strAbility": "Сил",
     "TIDY5E.dexAbility": "Лвк",
-    "TIDY5E.conAbility": "Вын",
+    "TIDY5E.conAbility": "Тел",
     "TIDY5E.intAbility": "Инт",
     "TIDY5E.wisAbility": "Мдр",
     "TIDY5E.chaAbility": "Хар",
